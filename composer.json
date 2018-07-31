@@ -1,7 +1,7 @@
 {
     "name": "jmcclane/testrepo",
     "version": "develop",
-    "type": "something fancy",
+    "type": "typo3-cms-extension",
     "dist": {
         "url": "git@github.com:jmcclane/testrepo.git",
         "type": "git"
